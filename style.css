@@ -1,0 +1,26 @@
+body{
+    background-image: url("background\ alan.jpg");
+    background-repeat: no-repeat;
+    background-size: 1500px 2000px;
+}
+h1{
+    font-family: cursive;
+    color:darkslategray;
+    font-size: xx-large;
+}
+h2{
+    font-family:cursive;
+    font-size: xx-large;
+    color: darkslategray;
+    
+}
+h3{
+    font-family: cursive;
+    font-size: xx-large;
+    color: darkslategray;
+}
+h4{
+    font-family: cursive;
+    font-size: xx-large;
+    color: darkslategray;
+}
